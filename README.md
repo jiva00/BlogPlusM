@@ -12,6 +12,11 @@ But so far, only manual and automatic options for 1080p 1 account are implemente
 Completely deleted the manual option.
 Also adjusted the settings to be compatible with bookmarks on or off.
 
+- 2025.03.07. blogplus_v2.2.0 update
+
+In both account options, we have created new first and second options.
+1440p was also created temporarily
+
 ---
 
 - Future Plans
