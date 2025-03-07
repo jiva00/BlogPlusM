@@ -17,6 +17,10 @@ Also adjusted the settings to be compatible with bookmarks on or off.
 In both account options, we have created new first and second options.
 1440p was also created temporarily
 
+- 2025.03.07. blogplus_v2.2.1 update
+
+Added a case with a display screen magnification of 125% and a website screen magnification of 75%.
+
 ---
 
 - Future Plans
