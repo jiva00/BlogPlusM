@@ -7,9 +7,10 @@
 Manual and automatic options, resolution selection options, and account selection options were added from the previously created 1.0.0 ver.
 But so far, only manual and automatic options for 1080p 1 account are implemented.
 
-- 2025.03.07. blogplus_v2.0.1 update
+- 2025.03.07. blogplus_v2.1.0 update
 
-Slightly modified the numbers to work well regardless of whether the bookmark bar is turned on or off
+Completely deleted the manual option.
+Also adjusted the settings to be compatible with bookmarks on or off.
 
 ---
 
