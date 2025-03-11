@@ -21,6 +21,10 @@ In both account options, we have created new first and second options.
 
 Added a case with a display screen magnification of 125% and a website screen magnification of 75%.
 
+- 2025.03.11. blogplus_v2.2.2 update
+
+The refresh rate is fixed at 0.3 seconds, but the internal click speed is increased by 0.01 to 0.02 seconds. And I deleted the double click.
+
 ---
 
 - Future Plans
