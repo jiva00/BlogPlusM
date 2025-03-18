@@ -25,6 +25,11 @@ Added a case with a display screen magnification of 125% and a website screen ma
 
 The refresh rate is fixed at 0.3 seconds, but the internal click speed is increased by 0.01 to 0.02 seconds. And I deleted the double click.
 
+- 2025.03.18. blogplus_v2.2.3 update
+
+I've solved a problem that can't be clicked before.
+I corrected the inter-click delay from 50, 50, 50, 50, 300 to 90, 20, 20, 20, 200. Depending on some network and computer specifications, it may be difficult to run.
+
 ---
 
 - Future Plans
