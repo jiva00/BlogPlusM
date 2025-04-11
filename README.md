@@ -30,6 +30,10 @@ The refresh rate is fixed at 0.3 seconds, but the internal click speed is increa
 I've solved a problem that can't be clicked before.
 I corrected the inter-click delay from 50, 50, 50, 50, 300 to 90, 20, 20, 20, 200. Depending on some network and computer specifications, it may be difficult to run.
 
+- 2025.04.11. blogplus_v2.2.4 update
+
+I modified it to work normally at 1440p.
+
 ---
 
 - Future Plans
